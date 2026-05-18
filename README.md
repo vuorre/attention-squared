@@ -116,4 +116,4 @@ Original JavaScript implementation:
 
 This fork:
 
-Just link to the GitHub repo (<https://github.com/mvuorre/standard-stingray>).
+Just link to the GitHub repo (<https://github.com/vuorre/attention-squared>).
